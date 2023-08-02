@@ -1,0 +1,204 @@
+{
+  "efd0fcc07435364f2bd841d382b52aba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "662c677db32f390d",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/662c677db32f390d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690963755832,
+        "stop" : 1690963797056,
+        "duration" : 41224
+      }
+    } ]
+  },
+  "f39da2eb019e23faceb80642e4bc740c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "abba91cebf6a33b4",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/abba91cebf6a33b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690963755811,
+        "stop" : 1690963755811,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5fba82c8a2b573dc762254cd8363c2b5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "946d1d46ef32f1ab",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/946d1d46ef32f1ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690963745912,
+        "stop" : 1690963755799,
+        "duration" : 9887
+      }
+    } ]
+  },
+  "fff76e7821e7bfc8b641692aea38123a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0231f7b1c2a8f93",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/d0231f7b1c2a8f93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690963839510,
+        "stop" : 1690963851768,
+        "duration" : 12258
+      }
+    } ]
+  },
+  "182785c6747d8bfb97216c955b727f62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "923bd86eb769428e",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/923bd86eb769428e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690963745908,
+        "stop" : 1690963745908,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7344f918e87c2a594ef752c339c3482f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7aa2be754dc684b",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/a7aa2be754dc684b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1690963797063,
+        "stop" : 1690963797063,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bfa19263052424bb6fc24919e61cc459" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63619ffe85728b26",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/63619ffe85728b26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690963851778,
+        "stop" : 1690963851778,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8d30dda6ed2b64123733eed81bcbee8f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6668de9260cae157",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/6668de9260cae157",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690963797097,
+        "stop" : 1690963812233,
+        "duration" : 15136
+      }
+    } ]
+  },
+  "43f8d8b14b7ebb0223315f4457e945bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1f5e11b18186975",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/c1f5e11b18186975",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690963812238,
+        "stop" : 1690963839501,
+        "duration" : 27263
+      }
+    } ]
+  },
+  "b64930d7b7c6e3fcd558166ff16cd852" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a2b0a4934858f40",
+      "reportUrl" : "http://localhost:8080/job/Pytest_15_jenkins/1/allure/#testresult/6a2b0a4934858f40",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1690963797078,
+        "stop" : 1690963797078,
+        "duration" : 0
+      }
+    } ]
+  }
+}

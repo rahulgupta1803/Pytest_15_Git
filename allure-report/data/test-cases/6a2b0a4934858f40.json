@@ -1,0 +1,57 @@
+{
+  "uid" : "6a2b0a4934858f40",
+  "name" : "test_shopclues_login_logout",
+  "fullName" : "test_file01.Test_01#test_shopclues_login_logout",
+  "historyId" : "b64930d7b7c6e3fcd558166ff16cd852",
+  "time" : {
+    "start" : 1690963797078,
+    "stop" : 1690963797078,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('D:\\\\credence\\\\Pytest_15\\\\test_file01.py', 179, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "suite",
+    "value" : "test_file01"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_01"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3IIDO4U"
+  }, {
+    "name" : "thread",
+    "value" : "2760-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_file01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip" ]
+  },
+  "source" : "6a2b0a4934858f40.json",
+  "parameterValues" : [ ]
+}

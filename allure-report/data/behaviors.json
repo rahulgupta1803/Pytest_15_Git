@@ -1,0 +1,125 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_sum_001",
+    "uid" : "923bd86eb769428e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1690963745908,
+      "stop" : 1690963745908,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_credenceurl",
+    "uid" : "946d1d46ef32f1ab",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1690963745912,
+      "stop" : 1690963755799,
+      "duration" : 9887
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_mul",
+    "uid" : "abba91cebf6a33b4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1690963755811,
+      "stop" : 1690963755811,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_credkart_checkout",
+    "uid" : "662c677db32f390d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1690963755832,
+      "stop" : 1690963797056,
+      "duration" : 41224
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_orange_hrm_login",
+    "uid" : "a7aa2be754dc684b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1690963797063,
+      "stop" : 1690963797063,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_shopclues_login_logout",
+    "uid" : "6a2b0a4934858f40",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1690963797078,
+      "stop" : 1690963797078,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_Cred_kart_login",
+    "uid" : "6668de9260cae157",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1690963797097,
+      "stop" : 1690963812233,
+      "duration" : 15136
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_credkart_shopping",
+    "uid" : "c1f5e11b18186975",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1690963812238,
+      "stop" : 1690963839501,
+      "duration" : 27263
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_credenceurl",
+    "uid" : "d0231f7b1c2a8f93",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1690963839510,
+      "stop" : 1690963851768,
+      "duration" : 12258
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_sum_001",
+    "uid" : "63619ffe85728b26",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1690963851778,
+      "stop" : 1690963851778,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

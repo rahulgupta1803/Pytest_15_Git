@@ -1,0 +1,52 @@
+{
+  "uid" : "63619ffe85728b26",
+  "name" : "test_sum_001",
+  "fullName" : "test_file03.Test_credence#test_sum_001",
+  "historyId" : "bfa19263052424bb6fc24919e61cc459",
+  "time" : {
+    "start" : 1690963851778,
+    "stop" : 1690963851778,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_file03"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_credence"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3IIDO4U"
+  }, {
+    "name" : "thread",
+    "value" : "2760-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_file03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63619ffe85728b26.json",
+  "parameterValues" : [ ]
+}
